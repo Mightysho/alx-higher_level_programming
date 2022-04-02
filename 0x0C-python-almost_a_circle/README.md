@@ -31,3 +31,4 @@ Files | Description
 [`models/__init__.py`](./`models/__init__.py`) | Empty file that makes the folder a Python module
 [models/rectangle.py](./models/rectangle.py) | Class Rectangle that inherits from Base
 [models/square.py](./models/square.py) | Class Square that inherits from Rectangle
+
